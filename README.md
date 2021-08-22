@@ -1,2 +1,2 @@
-# webno_1
-website html css,
+# startup-of-the-year
+Starter project
